@@ -1,2 +1,2 @@
-# CALCULATOR
+# CODSOFT (CALCULATOR)
 Calculator Repo
