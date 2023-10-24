@@ -1,2 +1,2 @@
-# CALCUALTOR
+# CALCULATOR
 Calculator Repo
